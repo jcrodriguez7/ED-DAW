@@ -7,6 +7,8 @@ package cuentas;
 /**
  *
  * @author juanc
+ * @version 1.1
+ * @since 1.0
  */
 public class Main {
 

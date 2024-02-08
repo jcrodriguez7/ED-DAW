@@ -1,0 +1,45 @@
+@options
+@packages
+-encoding
+'UTF-8'
+-protected
+-source
+'21'
+-sourcepath
+'C:/Users/juanc/Dropbox/Estudios/DAW/1/Entornos de desarrollo/UD - 4/Deposito/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2024. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'C:/Users/juanc/Dropbox/Estudios/DAW/1/Entornos de desarrollo/UD - 4/Deposito/target/site/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'Deposito 1.0-SNAPSHOT API'
+-use
+-version
+-windowtitle
+'Deposito 1.0-SNAPSHOT API'
+cuentas
+C:\Users\juanc\Dropbox\Estudios\DAW\1\Entornos de desarrollo\UD - 4\Deposito\src\main\java = 1707334933840
+C:\Users\juanc\Dropbox\Estudios\DAW\1\Entornos de desarrollo\UD - 4\Deposito\target\site\apidocs\allclasses-index.html = 1707373413260
+C:\Users\juanc\Dropbox\Estudios\DAW\1\Entornos de desarrollo\UD - 4\Deposito\target\site\apidocs\allpackages-index.html = 1707373413266
+C:\Users\juanc\Dropbox\Estudios\DAW\1\Entornos de desarrollo\UD - 4\Deposito\target\site\apidocs\copy.svg = 1707373413366
+C:\Users\juanc\Dropbox\Estudios\DAW\1\Entornos de desarrollo\UD - 4\Deposito\target\site\apidocs\element-list = 1707373413155
+C:\Users\juanc\Dropbox\Estudios\DAW\1\Entornos de desarrollo\UD - 4\Deposito\target\site\apidocs\help-doc.html = 1707373413340
+C:\Users\juanc\Dropbox\Estudios\DAW\1\Entornos de desarrollo\UD - 4\Deposito\target\site\apidocs\index-all.html = 1707373413308
+C:\Users\juanc\Dropbox\Estudios\DAW\1\Entornos de desarrollo\UD - 4\Deposito\target\site\apidocs\index.html = 1707373413328
+C:\Users\juanc\Dropbox\Estudios\DAW\1\Entornos de desarrollo\UD - 4\Deposito\target\site\apidocs\link.svg = 1707373413371
+C:\Users\juanc\Dropbox\Estudios\DAW\1\Entornos de desarrollo\UD - 4\Deposito\target\site\apidocs\member-search-index.js = 1707373413279
+C:\Users\juanc\Dropbox\Estudios\DAW\1\Entornos de desarrollo\UD - 4\Deposito\target\site\apidocs\module-search-index.js = 1707373413269
+C:\Users\juanc\Dropbox\Estudios\DAW\1\Entornos de desarrollo\UD - 4\Deposito\target\site\apidocs\overview-tree.html = 1707373413230
+C:\Users\juanc\Dropbox\Estudios\DAW\1\Entornos de desarrollo\UD - 4\Deposito\target\site\apidocs\package-search-index.js = 1707373413272
+C:\Users\juanc\Dropbox\Estudios\DAW\1\Entornos de desarrollo\UD - 4\Deposito\target\site\apidocs\script.js = 1707373413362
+C:\Users\juanc\Dropbox\Estudios\DAW\1\Entornos de desarrollo\UD - 4\Deposito\target\site\apidocs\search-page.js = 1707373413386
+C:\Users\juanc\Dropbox\Estudios\DAW\1\Entornos de desarrollo\UD - 4\Deposito\target\site\apidocs\search.html = 1707373413322
+C:\Users\juanc\Dropbox\Estudios\DAW\1\Entornos de desarrollo\UD - 4\Deposito\target\site\apidocs\search.js = 1707373413378
+C:\Users\juanc\Dropbox\Estudios\DAW\1\Entornos de desarrollo\UD - 4\Deposito\target\site\apidocs\stylesheet.css = 1707373413349
+C:\Users\juanc\Dropbox\Estudios\DAW\1\Entornos de desarrollo\UD - 4\Deposito\target\site\apidocs\tag-search-index.js = 1707373413282
+C:\Users\juanc\Dropbox\Estudios\DAW\1\Entornos de desarrollo\UD - 4\Deposito\target\site\apidocs\type-search-index.js = 1707373413275

@@ -7,19 +7,29 @@ package cuentas;
 /**
  *
  * @author juanc
+ * @version 1.1
  */
 public class CCuenta {
 
-
+    /**
+     * Campos de la clase
+     */
     private String nombre;
     private String cuenta;
     private double saldo;
     private double tipoInterés;
-
+    
     public CCuenta()
     {
     }
-
+    
+    /**
+     * Constructor de la cuenta con 4 parámetros
+     * @param nom nombre del propietario
+     * @param cue nombre de la cuenta
+     * @param sal saldo inicial de la cuenta
+     * @param tipo tipo de interés inicial de la cuenta
+     */
     public CCuenta(String nom, String cue, double sal, double tipo)
     {
         nombre =nom;
@@ -32,6 +42,11 @@ public class CCuenta {
         return getSaldo();
     }
 
+    /**
+     * Este método se utiliza para ingresar X cantidad en la cuenta
+     * @param cantidad Cantidad que se quiere ingresar
+     * @throws Exception Si la cantidad que se intenta ingresar, es negativa.
+     */
     public void ingresar(double cantidad) throws Exception
     {
         if (cantidad<0)
@@ -39,6 +54,11 @@ public class CCuenta {
         setSaldo(getSaldo() + cantidad);
     }
 
+    /**
+     * Éste método posibilita retirar una cantidad X de la cuenta.
+     * @param cantidad Cantidad que se quiere retirar
+     * @throws Exception Si la cantidad a retirar es negativa o no hubiera suficiente saldo
+     */
     public void retirar(double cantidad) throws Exception
     {
         if (cantidad <= 0)
@@ -48,6 +68,11 @@ public class CCuenta {
         setSaldo(getSaldo() - cantidad);
     }
 
+    /**
+     * Los siguiente métodos son los set y get de los atributos de la clase.
+     */
+    
+    
     /**
      * @return el nombre
      */
@@ -75,7 +100,7 @@ public class CCuenta {
     public void setCuenta(String cuenta) {
         this.cuenta = cuenta;
     }
-
+    
     /**
      * @return el saldo
      */
